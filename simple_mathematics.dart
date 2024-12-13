@@ -39,7 +39,6 @@ void main() {
 
   print("This is zaid CGPA : ${totalGPA}");
 
-
   
   
 }
